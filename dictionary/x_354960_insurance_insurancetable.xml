@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="InsuranceTable" max_length="40" name="x_354960_insurance_insurancetable" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Address" max_length="100" name="address" type="string"/>
+        <element label="Age" mandatory="true" max_length="40" name="age" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Email" max_length="50" name="email" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="male" label="Gender" mandatory="true" max_length="40" name="gender" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Male" sequence="0" value="male"/>
+                <element inactive_on_update="false" label="Female" sequence="1" value="female"/>
+                <element inactive_on_update="false" label="Others" sequence="2" value="others"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="500 pm" label="Monthly Package" max_length="40" name="mpackage" type="string">
+            <choice>
+                <element inactive_on_update="false" label="500 PM" sequence="0" value="500 pm"/>
+                <element inactive_on_update="false" label="1000 PM" sequence="1" value="1000 pm"/>
+                <element inactive_on_update="false" label="1200 PM" sequence="2" value="1200 pm"/>
+                <element inactive_on_update="false" label="1500 PM" sequence="3" value="1500 pm"/>
+                <element inactive_on_update="false" label="1800 PM" sequence="4" value="1800 pm"/>
+                <element inactive_on_update="false" label="2000 PM" sequence="5" value="2000 pm"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Name" mandatory="true" max_length="40" name="name" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Insurance ID" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Occupation" mandatory="true" max_length="40" name="occupation" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="yearly" label="Select type of package" mandatory="true" max_length="40" name="package" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Yearly" sequence="0" value="yearly"/>
+                <element inactive_on_update="false" label="Monthly" sequence="1" value="monthly"/>
+            </choice>
+        </element>
+        <element label="Phone Number" max_length="40" name="phone_number" type="phone_number_e164"/>
+        <element label="Salary" mandatory="true" max_length="40" name="salary" type="float"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="10000 pa" label="Yearly Package" max_length="40" name="ypackage" type="string">
+            <choice>
+                <element inactive="true" inactive_on_update="true" label="10" sequence="0" value="10"/>
+                <element inactive_on_update="false" label="10000 PA" sequence="0" value="10000 pa"/>
+                <element inactive="true" inactive_on_update="true" label="20" sequence="0" value="20"/>
+                <element inactive="true" inactive_on_update="true" label="2" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="20000 PA" sequence="1" value="20000 pa"/>
+                <element inactive="true" inactive_on_update="true" label="50" sequence="1" value="50"/>
+                <element inactive="true" inactive_on_update="true" label="1" sequence="2" value="1"/>
+                <element inactive_on_update="false" label="50000 PA" sequence="2" value="50000 pa"/>
+                <element inactive_on_update="false" label="100000 PA" sequence="3" value="100000 pa"/>
+                <element inactive="true" inactive_on_update="true" label="5" sequence="3" value="5"/>
+                <element inactive_on_update="false" label="200000 PA" sequence="4" value="200000 pa"/>
+                <element inactive_on_update="false" label="500000 PA" sequence="5" value="500000 pa"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

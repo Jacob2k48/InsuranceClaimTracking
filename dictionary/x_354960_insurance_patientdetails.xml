@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="PatientDetails" max_length="40" name="x_354960_insurance_patientdetails" type="collection">
+    <element attributes="live_feed=false" label="PatientDetails" max_length="40" name="x_354960_insurance_patientdetails" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Address" mandatory="true" max_length="100" name="address" type="string"/>
         <element label="Age" mandatory="true" max_length="40" name="age" type="integer"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Blood Group" max_length="40" name="blood_group" type="string">
