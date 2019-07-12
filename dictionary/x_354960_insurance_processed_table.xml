@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Processed Table" max_length="40" name="x_354960_insurance_processed_table" type="collection">
+        <element choice="3" default="approved" label="approval status" max_length="40" name="approval_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Approved" sequence="0" value="approved"/>
+                <element inactive_on_update="false" label="Rejected" sequence="1" value="rejected"/>
+                <element inactive_on_update="false" label="Claimed" sequence="2" value="claimed"/>
+            </choice>
+        </element>
+        <element label="Insurance ID" max_length="40" name="insurance_id" type="string"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Patient ID" max_length="32" name="patient_id" reference="x_354960_insurance_patientdetails" type="reference"/>
+        <element label="Reason of claim" max_length="40" name="reason_of_claim" type="string"/>
+        <index name="index">
+            <element name="patient_id"/>
+        </index>
+    </element>
+</database>

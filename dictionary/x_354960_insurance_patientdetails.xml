@@ -27,7 +27,7 @@
         <element label="Have Insurance" max_length="40" name="have_insurance" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" label="Insurance ID" max_length="40" name="insu_id" type="string"/>
         <element label="Name" max_length="40" name="name" type="string"/>
-        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Patient ID" max_length="40" name="number" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" display="true" label="Patient ID" max_length="40" name="number" type="string"/>
         <element label="Phone Number" mandatory="true" max_length="40" name="phone_number" type="phone_number_e164"/>
         <element label="Any previous health issues" max_length="40" name="prev_issues" type="boolean"/>
         <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
