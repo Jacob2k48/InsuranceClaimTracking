@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="blood_group" table="x_354960_insurance_patientdetails" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>blood_group</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>A</label>
+            <language>en</language>
+            <name>x_354960_insurance_patientdetails</name>
+            <sequence>0</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-07-12 06:39:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a2124e5adb667300823b9c68db9619ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-07-12 06:39:02</sys_updated_on>
+            <value>a</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>blood_group</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>A-</label>
+            <language>en</language>
+            <name>x_354960_insurance_patientdetails</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-07-12 06:39:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e2124e5adb667300823b9c68db9619ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-07-12 06:39:02</sys_updated_on>
+            <value>a-</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>blood_group</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>B</label>
+            <language>en</language>
+            <name>x_354960_insurance_patientdetails</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-07-12 06:39:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>26124e5adb667300823b9c68db9619ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-07-12 06:39:02</sys_updated_on>
+            <value>b</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>blood_group</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>B-</label>
+            <language>en</language>
+            <name>x_354960_insurance_patientdetails</name>
+            <sequence>3</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-07-12 06:39:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>66124e5adb667300823b9c68db9619ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-07-12 06:39:02</sys_updated_on>
+            <value>b-</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>blood_group</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>O</label>
+            <language>en</language>
+            <name>x_354960_insurance_patientdetails</name>
+            <sequence>4</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-07-12 06:39:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a6124e5adb667300823b9c68db9619ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-07-12 06:39:02</sys_updated_on>
+            <value>o</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>blood_group</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>O-</label>
+            <language>en</language>
+            <name>x_354960_insurance_patientdetails</name>
+            <sequence>5</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-07-12 06:39:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e6124e5adb667300823b9c68db9619ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-07-12 06:39:02</sys_updated_on>
+            <value>o-</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>blood_group</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AB</label>
+            <language>en</language>
+            <name>x_354960_insurance_patientdetails</name>
+            <sequence>6</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-07-12 06:39:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2a124e5adb667300823b9c68db9619ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-07-12 06:39:02</sys_updated_on>
+            <value>ab</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>blood_group</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AB-</label>
+            <language>en</language>
+            <name>x_354960_insurance_patientdetails</name>
+            <sequence>7</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-07-12 06:39:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6a124e5adb667300823b9c68db9619ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-07-12 06:39:02</sys_updated_on>
+            <value>ab-</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>blood_group</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>BOMBAY</label>
+            <language>en</language>
+            <name>x_354960_insurance_patientdetails</name>
+            <sequence>8</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-07-12 06:39:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>aa124e5adb667300823b9c68db9619ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-07-12 06:39:02</sys_updated_on>
+            <value>bombay</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>blood_group</element>
+            <name>x_354960_insurance_patientdetails</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-07-12 06:39:02</sys_created_on>
+            <sys_id>ae124e5adb667300823b9c68db9619ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>blood_group</sys_name>
+            <sys_package display_value="InsuranceClaimTracking" source="x_354960_insurance">45b238bedb1a33000fc29b81ca9619c1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="InsuranceClaimTracking">45b238bedb1a33000fc29b81ca9619c1</sys_scope>
+            <sys_update_name>sys_choice_x_354960_insurance_patientdetails_blood_group</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-07-12 06:39:02</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Processed Table" max_length="40" name="x_354960_insurance_processed_table" type="collection">
-        <element choice="3" default="approved" label="approval status" max_length="40" name="approval_status" type="choice">
+        <element choice="3" default="claimed" label="approval status" max_length="40" name="approval_status" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Approved" sequence="0" value="approved"/>
                 <element inactive_on_update="false" label="Rejected" sequence="1" value="rejected"/>
