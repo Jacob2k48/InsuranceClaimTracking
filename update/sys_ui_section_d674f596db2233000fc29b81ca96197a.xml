@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="" section_id="d674f596db2233000fc29b81ca96197a" sys_domain="global" table="x_354960_insurance_processed_table" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>patient_id</element>
+            <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-13 03:50:49</sys_created_on>
-            <sys_id>48352a6edb22b300823b9c68db9619fd</sys_id>
+            <sys_created_on>2019-07-13 08:23:23</sys_created_on>
+            <sys_id>0593632adbe2b300823b9c68db96192d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_354960_insurance_processed_table" sys_domain="global" view="Default view">d674f596db2233000fc29b81ca96197a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-13 03:50:49</sys_updated_on>
+            <sys_updated_on>2019-07-13 08:23:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>patient_id</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-13 08:23:23</sys_created_on>
+            <sys_id>8593632adbe2b300823b9c68db96192d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_354960_insurance_processed_table" sys_domain="global" view="Default view">d674f596db2233000fc29b81ca96197a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-13 08:23:23</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>name</element>
-            <position>1</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-13 03:50:49</sys_created_on>
-            <sys_id>cc352a6edb22b300823b9c68db9619fd</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_354960_insurance_processed_table" sys_domain="global" view="Default view">d674f596db2233000fc29b81ca96197a</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-13 03:50:49</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>approval_status</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-13 03:50:49</sys_created_on>
-            <sys_id>40352a6edb22b300823b9c68db9619fe</sys_id>
+            <sys_created_on>2019-07-13 08:23:23</sys_created_on>
+            <sys_id>0993632adbe2b300823b9c68db96192d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_354960_insurance_processed_table" sys_domain="global" view="Default view">d674f596db2233000fc29b81ca96197a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-13 03:50:49</sys_updated_on>
+            <sys_updated_on>2019-07-13 08:23:23</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>.split</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-13 03:50:49</sys_created_on>
-            <sys_id>c0352a6edb22b300823b9c68db9619fe</sys_id>
+            <sys_created_on>2019-07-13 08:23:23</sys_created_on>
+            <sys_id>8993632adbe2b300823b9c68db96192d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_354960_insurance_processed_table" sys_domain="global" view="Default view">d674f596db2233000fc29b81ca96197a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-13 03:50:49</sys_updated_on>
+            <sys_updated_on>2019-07-13 08:23:23</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>insurance_id</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-13 03:50:49</sys_created_on>
-            <sys_id>44352a6edb22b300823b9c68db9619fe</sys_id>
+            <sys_created_on>2019-07-13 08:23:23</sys_created_on>
+            <sys_id>0d93632adbe2b300823b9c68db96192d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_354960_insurance_processed_table" sys_domain="global" view="Default view">d674f596db2233000fc29b81ca96197a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-13 03:50:49</sys_updated_on>
+            <sys_updated_on>2019-07-13 08:23:23</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -74,13 +74,27 @@
             <element>reason_of_claim</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-13 03:50:49</sys_created_on>
-            <sys_id>c4352a6edb22b300823b9c68db9619fe</sys_id>
+            <sys_created_on>2019-07-13 08:23:23</sys_created_on>
+            <sys_id>8d93632adbe2b300823b9c68db96192d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_354960_insurance_processed_table" sys_domain="global" view="Default view">d674f596db2233000fc29b81ca96197a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-13 03:50:49</sys_updated_on>
+            <sys_updated_on>2019-07-13 08:23:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approval_status</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-13 08:23:23</sys_created_on>
+            <sys_id>0193632adbe2b300823b9c68db96192e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_354960_insurance_processed_table" sys_domain="global" view="Default view">d674f596db2233000fc29b81ca96197a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-13 08:23:23</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
