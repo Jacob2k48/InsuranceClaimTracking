@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Send Email">716281160b100300d97d8bf637673ac7</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot>716281160b100300d97d8bf637673ac7</compiled_snapshot>
+        <display_text/>
+        <flow display_value="ApproveCalimFlow">bcbd77e7db223300823b9c68db9619d6</flow>
+        <order>2.2</order>
+        <parent_ui_id>24aed6e7-59ad-418e-9925-4efa2314925c</parent_ui_id>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-16 15:21:04</sys_created_on>
+        <sys_id>30ffd033dba23300823b9c68db961942</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="InsuranceClaimTracking" source="x_354960_insurance">45b238bedb1a33000fc29b81ca9619c1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="InsuranceClaimTracking">45b238bedb1a33000fc29b81ca9619c1</sys_scope>
+        <sys_update_name>sys_hub_action_instance_30ffd033dba23300823b9c68db961942</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-07-16 15:31:23</sys_updated_on>
+        <ui_id>d7b7c9bb-11df-4e82-9365-bb08264b8e5b</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=30ffd033dba23300823b9c68db961942"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>30ffd033dba23300823b9c68db961942</document_key>
+        <order>4</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-16 15:26:35</sys_created_on>
+        <sys_id>29316473dba23300823b9c68db9619a5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-16 15:26:35</sys_updated_on>
+        <value>&lt;p&gt;&lt;span style="color: #ff0000;"&gt;&lt;strong&gt;We are sorry to say that your claim for insurance has been rejected.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</value>
+        <variable display_value="">4e62c1160b100300d97d8bf637673a10</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>30ffd033dba23300823b9c68db961942</document_key>
+        <order>3</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-16 15:21:05</sys_created_on>
+        <sys_id>78ffd033dba23300823b9c68db961949</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-16 15:21:05</sys_updated_on>
+        <value>Insurance Claim Status.</value>
+        <variable display_value="">b21241160b100300d97d8bf637673a4a</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>30ffd033dba23300823b9c68db961942</document_key>
+        <order>4</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-16 15:21:05</sys_created_on>
+        <sys_id>b0ffd033dba23300823b9c68db961949</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-16 15:21:05</sys_updated_on>
+        <value>&lt;p&gt;&lt;span style="color: #ff0000;"&gt;&lt;strong&gt;We are sorry to say that your claim for insurance has been rejected.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</value>
+        <variable display_value="">c71241160b100300d97d8bf637673a55</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>30ffd033dba23300823b9c68db961942</document_key>
+        <order>3</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-16 15:26:35</sys_created_on>
+        <sys_id>e9316473dba23300823b9c68db9619a5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-16 15:26:35</sys_updated_on>
+        <value>Insurance Claim Status.</value>
+        <variable display_value="">0a62c1160b100300d97d8bf637673a05</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=30ffd033dba23300823b9c68db961942"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_body</field>
+        <id>30ffd033dba23300823b9c68db961942</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-16 15:21:05</sys_created_on>
+        <sys_id>30ffd033dba23300823b9c68db961949</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-16 15:21:05</sys_updated_on>
+        <table>var__m_sys_hub_action_input_98c181d20b100300d97d8bf637673ab5</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_body</field>
+        <id>30ffd033dba23300823b9c68db961942</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-16 15:26:35</sys_created_on>
+        <sys_id>a5316473dba23300823b9c68db9619a5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-16 15:26:35</sys_updated_on>
+        <table>var__m_sys_hub_action_input_716281160b100300d97d8bf637673ac7</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_subject</field>
+        <id>30ffd033dba23300823b9c68db961942</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-16 15:21:05</sys_created_on>
+        <sys_id>7cffd033dba23300823b9c68db961948</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-16 15:21:05</sys_updated_on>
+        <table>var__m_sys_hub_action_input_98c181d20b100300d97d8bf637673ab5</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_subject</field>
+        <id>30ffd033dba23300823b9c68db961942</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-16 15:26:35</sys_created_on>
+        <sys_id>e1316473dba23300823b9c68db9619a5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-16 15:26:35</sys_updated_on>
+        <table>var__m_sys_hub_action_input_716281160b100300d97d8bf637673ac7</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_to</field>
+        <id>30ffd033dba23300823b9c68db961942</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-16 15:26:35</sys_created_on>
+        <sys_id>21316473dba23300823b9c68db9619a5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-16 15:26:35</sys_updated_on>
+        <table>var__m_sys_hub_action_input_716281160b100300d97d8bf637673ac7</table>
+        <value>{{9235ddd9-1a6a-4568-a712-4dba64f36734.Record.email}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_to</field>
+        <id>30ffd033dba23300823b9c68db961942</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-16 15:21:05</sys_created_on>
+        <sys_id>b4ffd033dba23300823b9c68db961948</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-16 15:21:05</sys_updated_on>
+        <table>var__m_sys_hub_action_input_98c181d20b100300d97d8bf637673ab5</table>
+        <value>{{9235ddd9-1a6a-4568-a712-4dba64f36734.Record.email}}</value>
+    </sys_element_mapping>
+</record_update>

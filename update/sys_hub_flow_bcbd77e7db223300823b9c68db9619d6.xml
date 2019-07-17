@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>true</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>approvecalimflow</internal_name>
+        <label_cache>[{"name":"983797de-8cae-4599-9ceb-e4b242908344.email","label":"5.1➛email","reference":"sys_email","reference_display":"Email","type":"reference","base_type":"reference"},{"name":"1950ede3-d6a9-4016-b3c1-561192e4f07c.table_name","label":"2.1➛Processed Table Table","reference":"x_354960_insurance_processed_table","reference_display":"Processed Table","type":"table_name","base_type":"table_name"},{"name":"1950ede3-d6a9-4016-b3c1-561192e4f07c.record","label":"2.1➛Processed Table Record","reference":"x_354960_insurance_processed_table","reference_display":"Processed Table","type":"reference","base_type":"reference"},{"name":"9235ddd9-1a6a-4568-a712-4dba64f36734.Record","label":"1➛InsuranceTable Record","reference":"x_354960_insurance_insurancetable","reference_display":"InsuranceTable","type":"reference","base_type":"reference"},{"name":"9235ddd9-1a6a-4568-a712-4dba64f36734.Table","label":"1➛InsuranceTable Table","reference":"x_354960_insurance_insurancetable","reference_display":"InsuranceTable","type":"table_name","base_type":"table_name"},{"name":"Created_1.current.insurance_id","label":"Trigger➛Processed Table Record➛Insurance ID","reference":"","reference_display":"Insurance ID","type":"string","base_type":"string","parent_table_name":"x_354960_insurance_processed_table","column_name":"insurance_id"},{"name":"Created_1.current.cost_of_operation","label":"Trigger➛Processed Table Record➛cost of operation","reference":"","reference_display":"cost of operation","type":"integer","base_type":"integer","parent_table_name":"x_354960_insurance_processed_table","column_name":"cost_of_operation"},{"name":"9235ddd9-1a6a-4568-a712-4dba64f36734.Record.number","label":"1➛InsuranceTable Record➛Insurance ID","reference":"","reference_display":"Insurance ID","type":"string","base_type":"string","parent_table_name":"x_354960_insurance_insurancetable","column_name":"number"},{"name":"9235ddd9-1a6a-4568-a712-4dba64f36734.Record.age","label":"1➛InsuranceTable Record➛Age","reference":"","reference_display":"Age","type":"integer","base_type":"integer","parent_table_name":"x_354960_insurance_insurancetable","column_name":"age"},{"name":"ba869b37-8d20-4935-bb6b-2f37e22a13d6.record","label":"2.1➛Record","reference_display":"Record","type":"document_id","base_type":"document_id"},{"name":"ba869b37-8d20-4935-bb6b-2f37e22a13d6.table_name","label":"2.1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"Created_1.current","label":"Trigger➛Processed Table Record","reference":"x_354960_insurance_processed_table","reference_display":"Processed Table","type":"reference","base_type":"reference"},{"name":"9235ddd9-1a6a-4568-a712-4dba64f36734.Record.tot_amt","label":"1➛InsuranceTable Record➛tot amt","reference":"","reference_display":"tot amt","type":"integer","base_type":"integer","parent_table_name":"x_354960_insurance_insurancetable","column_name":"tot_amt"},{"name":"6c4d61ad-be0b-4948-a1d3-12615dfd5842.approval_state","label":"3.1➛Approval State","reference_display":"Approval State","type":"choice","base_type":"choice"},{"name":"{{static.c2826bf03710200044e0bfc8bcbe5d97}}","label":"Insurance Company","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference"},{"name":"1478a776-100a-4d3d-b4e4-0cd22b749bd7.record","label":"3.2➛Record","reference_display":"Record","type":"document_id","base_type":"document_id"},{"name":"1478a776-100a-4d3d-b4e4-0cd22b749bd7.table_name","label":"3.2➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"9235ddd9-1a6a-4568-a712-4dba64f36734.Record.due_months","label":"1➛InsuranceTable Record➛Due Months","reference":"","reference_display":"Due Months","type":"integer","base_type":"integer","parent_table_name":"x_354960_insurance_insurancetable","column_name":"due_months"},{"name":"d7b7c9bb-11df-4e82-9365-bb08264b8e5b.email","label":"2.2➛email","reference":"sys_email","reference_display":"Email","type":"reference","base_type":"reference"},{"name":"9235ddd9-1a6a-4568-a712-4dba64f36734.Record.email","label":"1➛InsuranceTable Record➛Email","reference":"","reference_display":"Email","type":"string","base_type":"string","parent_table_name":"x_354960_insurance_insurancetable","column_name":"email"},{"name":"1a49bcc0-05ec-4e01-a189-e21da000aab9.email","label":"4➛email","reference":"sys_email","reference_display":"Email","type":"reference","base_type":"reference"},{"name":"Created_1.current.approval_status","label":"Trigger➛Processed Table Record➛approval status","reference":"","reference_display":"approval status","type":"choice","base_type":"choice","parent_table_name":"x_354960_insurance_processed_table","column_name":"approval_status"},{"name":"5ccd3172-6189-4b42-aae2-9f1585a462b9.email","label":"4.1➛email","reference":"sys_email","reference_display":"Email","type":"reference","base_type":"reference"}]</label_cache>
+        <latest_snapshot>5f4224b3dba23300823b9c68db96197b</latest_snapshot>
+        <master_snapshot>1860d877db623300823b9c68db96196b</master_snapshot>
+        <name>ApproveCalimFlow</name>
+        <outputs/>
+        <remote_trigger_id>7c60d877db623300823b9c68db9619e5</remote_trigger_id>
+        <run_as>user</run_as>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-16 12:51:26</sys_created_on>
+        <sys_id>bcbd77e7db223300823b9c68db9619d6</sys_id>
+        <sys_mod_count>18</sys_mod_count>
+        <sys_name>ApproveCalimFlow</sys_name>
+        <sys_package display_value="InsuranceClaimTracking" source="x_354960_insurance">45b238bedb1a33000fc29b81ca9619c1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="InsuranceClaimTracking">45b238bedb1a33000fc29b81ca9619c1</sys_scope>
+        <sys_update_name>sys_hub_flow_bcbd77e7db223300823b9c68db9619d6</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-07-16 15:31:23</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=bcbd77e7db223300823b9c68db9619d6"/>
+    <sys_variable_value action="delete_multiple" query="document_key=bcbd77e7db223300823b9c68db9619d6"/>
+</record_update>

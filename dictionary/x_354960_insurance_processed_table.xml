@@ -7,6 +7,7 @@
                 <element inactive_on_update="false" label="Claimed" sequence="2" value="claimed"/>
             </choice>
         </element>
+        <element label="cost of operation" max_length="40" name="cost_of_operation" type="integer"/>
         <element label="Insurance ID" max_length="40" name="insurance_id" type="string"/>
         <element label="Name" max_length="40" name="name" type="string"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Claim ID" max_length="40" name="number" read_only="true" type="string"/>

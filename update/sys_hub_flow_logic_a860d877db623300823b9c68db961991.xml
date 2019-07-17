@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow_logic">
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <block display_value="">e1a248fbdb223300823b9c68db9619db</block>
+        <comment/>
+        <connected_to/>
+        <decision_table/>
+        <decision_table_inputs/>
+        <display_text/>
+        <flow display_value="ApproveCalimFlow">1860d877db623300823b9c68db96196b</flow>
+        <inputs/>
+        <logic_definition display_value="If">af4e1945c3e232002841b63b12d3ae3e</logic_definition>
+        <order>2</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-16 14:13:03</sys_created_on>
+        <sys_id>a860d877db623300823b9c68db961991</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="InsuranceClaimTracking" source="x_354960_insurance">45b238bedb1a33000fc29b81ca9619c1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="InsuranceClaimTracking">45b238bedb1a33000fc29b81ca9619c1</sys_scope>
+        <sys_update_name>sys_hub_flow_logic_a860d877db623300823b9c68db961991</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-16 15:26:39</sys_updated_on>
+        <ui_id>24aed6e7-59ad-418e-9925-4efa2314925c</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=a860d877db623300823b9c68db961991"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>a860d877db623300823b9c68db961991</document_key>
+        <order>20</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-16 14:13:04</sys_created_on>
+        <sys_id>a860d877db623300823b9c68db961995</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-16 15:26:38</sys_updated_on>
+        <value>{{Created_1.current.cost_of_operation}}&gt;{{9235ddd9-1a6a-4568-a712-4dba64f36734.Record.tot_amt}}^NQ{{9235ddd9-1a6a-4568-a712-4dba64f36734.Record.due_months}}&gt;0</value>
+        <variable display_value="">9a5f5105c32632002841b63b12d3ae46</variable>
+    </sys_variable_value>
+</record_update>

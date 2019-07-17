@@ -23,7 +23,7 @@
             <dependent_value/>
             <element>ypackage</element>
             <hint/>
-            <inactive>false</inactive>
+            <inactive>true</inactive>
             <label>10000 PA</label>
             <language>en</language>
             <name>x_354960_insurance_insurancetable</name>
@@ -33,9 +33,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>b6124e5adb667300823b9c68db9619d5</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>system</sys_updated_by>
-            <sys_updated_on>2019-07-12 06:39:02</sys_updated_on>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-16 13:20:10</sys_updated_on>
             <value>10000 pa</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -62,6 +62,82 @@
             <element>ypackage</element>
             <hint/>
             <inactive>true</inactive>
+            <label>5 Lakhs</label>
+            <language>en</language>
+            <name>x_354960_insurance_insurancetable</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-16 13:20:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6d44c83fdb223300823b9c68db9619b1</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-16 13:30:52</sys_updated_on>
+            <value>5 lakhs</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ypackage</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>5L</label>
+            <language>en</language>
+            <name>x_354960_insurance_insurancetable</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-16 13:31:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5df6c8bfdb223300823b9c68db961975</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-16 13:31:53</sys_updated_on>
+            <value>5l</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ypackage</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>10 Lakhs</label>
+            <language>en</language>
+            <name>x_354960_insurance_insurancetable</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-16 13:20:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2d44c83fdb223300823b9c68db9619b2</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-16 13:30:52</sys_updated_on>
+            <value>10 lakhs</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ypackage</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>10L</label>
+            <language>en</language>
+            <name>x_354960_insurance_insurancetable</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-16 13:31:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d9f6c8bfdb223300823b9c68db961976</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-16 13:31:53</sys_updated_on>
+            <value>10l</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ypackage</element>
+            <hint/>
+            <inactive>true</inactive>
             <label>2</label>
             <language>en</language>
             <name>x_354960_insurance_insurancetable</name>
@@ -80,7 +156,7 @@
             <dependent_value/>
             <element>ypackage</element>
             <hint/>
-            <inactive>false</inactive>
+            <inactive>true</inactive>
             <label>20000 PA</label>
             <language>en</language>
             <name>x_354960_insurance_insurancetable</name>
@@ -90,9 +166,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>7a124e5adb667300823b9c68db9619d5</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>system</sys_updated_by>
-            <sys_updated_on>2019-07-12 06:39:02</sys_updated_on>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-16 13:20:10</sys_updated_on>
             <value>20000 pa</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -137,7 +213,45 @@
             <dependent_value/>
             <element>ypackage</element>
             <hint/>
+            <inactive>true</inactive>
+            <label>15 Lakhs</label>
+            <language>en</language>
+            <name>x_354960_insurance_insurancetable</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-16 13:20:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a944c83fdb223300823b9c68db9619b3</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-16 13:30:52</sys_updated_on>
+            <value>15 lakhs</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ypackage</element>
+            <hint/>
             <inactive>false</inactive>
+            <label>15L</label>
+            <language>en</language>
+            <name>x_354960_insurance_insurancetable</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-16 13:31:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>59f6c8bfdb223300823b9c68db961977</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-16 13:31:53</sys_updated_on>
+            <value>15l</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ypackage</element>
+            <hint/>
+            <inactive>true</inactive>
             <label>50000 PA</label>
             <language>en</language>
             <name>x_354960_insurance_insurancetable</name>
@@ -147,16 +261,16 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>3e124e5adb667300823b9c68db9619d5</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>system</sys_updated_by>
-            <sys_updated_on>2019-07-12 06:39:02</sys_updated_on>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-16 13:20:10</sys_updated_on>
             <value>50000 pa</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>ypackage</element>
             <hint/>
-            <inactive>false</inactive>
+            <inactive>true</inactive>
             <label>100000 PA</label>
             <language>en</language>
             <name>x_354960_insurance_insurancetable</name>
@@ -166,9 +280,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>7e124e5adb667300823b9c68db9619d5</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>system</sys_updated_by>
-            <sys_updated_on>2019-07-12 06:39:02</sys_updated_on>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-16 13:20:10</sys_updated_on>
             <value>100000 pa</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -194,7 +308,7 @@
             <dependent_value/>
             <element>ypackage</element>
             <hint/>
-            <inactive>false</inactive>
+            <inactive>true</inactive>
             <label>200000 PA</label>
             <language>en</language>
             <name>x_354960_insurance_insurancetable</name>
@@ -204,16 +318,16 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>fe124e5adb667300823b9c68db9619d5</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>system</sys_updated_by>
-            <sys_updated_on>2019-07-12 06:39:02</sys_updated_on>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-16 13:20:10</sys_updated_on>
             <value>200000 pa</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>ypackage</element>
             <hint/>
-            <inactive>false</inactive>
+            <inactive>true</inactive>
             <label>500000 PA</label>
             <language>en</language>
             <name>x_354960_insurance_insurancetable</name>
@@ -223,9 +337,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>32124e5adb667300823b9c68db9619d6</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>system</sys_updated_by>
-            <sys_updated_on>2019-07-12 06:39:02</sys_updated_on>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-16 13:20:10</sys_updated_on>
             <value>500000 pa</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">

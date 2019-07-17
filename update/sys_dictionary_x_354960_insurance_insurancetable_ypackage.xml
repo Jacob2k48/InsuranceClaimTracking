@@ -6,13 +6,13 @@
         <attributes>edge_encryption_enabled=true</attributes>
         <audit>false</audit>
         <calculation/>
-        <choice>3</choice>
+        <choice>1</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>Yearly Package</column_label>
+        <column_label>Total Insurance Amount</column_label>
         <comments/>
         <create_roles/>
-        <default_value>10000 pa</default_value>
+        <default_value/>
         <defaultsort/>
         <delete_roles/>
         <dependent/>
@@ -49,18 +49,18 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-07-04 04:23:14</sys_created_on>
         <sys_id>ae124e5adb667300823b9c68db9619c4</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Yearly Package</sys_name>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Total Insurance Amount</sys_name>
         <sys_package display_value="InsuranceClaimTracking" source="x_354960_insurance">45b238bedb1a33000fc29b81ca9619c1</sys_package>
         <sys_policy/>
         <sys_scope display_value="InsuranceClaimTracking">45b238bedb1a33000fc29b81ca9619c1</sys_scope>
         <sys_update_name>sys_dictionary_x_354960_insurance_insurancetable_ypackage</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2019-07-12 06:39:07</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-16 13:30:52</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
-        <use_dependent_field>false</use_dependent_field>
+        <use_dependent_field>true</use_dependent_field>
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
         <virtual>false</virtual>

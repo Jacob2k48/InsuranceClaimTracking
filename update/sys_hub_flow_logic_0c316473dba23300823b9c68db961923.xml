@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow_logic">
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <block display_value="">4c316473dba23300823b9c68db961921</block>
+        <comment/>
+        <connected_to>6fb7fc70-7e71-47eb-a6d0-692f39da1942</connected_to>
+        <decision_table/>
+        <decision_table_inputs/>
+        <display_text/>
+        <flow display_value="ApproveCalimFlow">bcbd77e7db223300823b9c68db9619d6</flow>
+        <inputs/>
+        <logic_definition display_value="Else">1f781bf3c32232002841b63b12d3aee6</logic_definition>
+        <order>5</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-16 15:26:29</sys_created_on>
+        <sys_id>0c316473dba23300823b9c68db961923</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="InsuranceClaimTracking" source="x_354960_insurance">45b238bedb1a33000fc29b81ca9619c1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="InsuranceClaimTracking">45b238bedb1a33000fc29b81ca9619c1</sys_scope>
+        <sys_update_name>sys_hub_flow_logic_0c316473dba23300823b9c68db961923</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-07-16 15:31:24</sys_updated_on>
+        <ui_id>fa2aae6c-25a3-4af3-96f4-e2ce83e06dc4</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=0c316473dba23300823b9c68db961923"/>
+</record_update>
