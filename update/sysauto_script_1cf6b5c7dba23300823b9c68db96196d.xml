@@ -4,7 +4,7 @@
         <condition/>
         <conditional>false</conditional>
         <name>DueDateReminder</name>
-        <run_as display_value="Jacob.k Kunjumon">6816f79cc0a8016401c5a33be04be441</run_as>
+        <run_as display_value="Jacob K Kunjumon">6816f79cc0a8016401c5a33be04be441</run_as>
         <run_as_tz/>
         <run_dayofmonth>31</run_dayofmonth>
         <run_dayofweek>1</run_dayofweek>
